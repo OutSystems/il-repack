@@ -1,0 +1,8 @@
+{
+	"slnFilePath": "../ILRepack.sln",
+	"csprojFilePath": "./ILRepack.csproj",
+	"configuration": "Release",
+	"testsdllFilePath": "./ILRepack.IntegrationTests/bin/Release/ILRepack.IntegrationTests.dll",
+	"nuspecFilePath": "../ILRepack.nuspec",
+	"packageRootPath":"../"
+}

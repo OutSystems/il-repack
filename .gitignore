@@ -7,10 +7,12 @@ _ReSharper*
 .classpath
 .project
 .gradle
+artifacts/
 build/
 buildSrc/
 bin/
 obj/
+tools/
 packages/
 *.suo
 *.user

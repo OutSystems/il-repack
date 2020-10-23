@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>ILRepack.OutSystems</id>
+        <version>2.19</version>
+	<title>ILRepack - Open-source alternative to ILMerge</title>
+        <description>ILRepack - Open-source alternative to ILMerge</description>
+        <authors>Tito Moreira</authors>
+
+        <!-- Optional elements -->
+        <!-- ... -->
+    </metadata>
+    <!-- Optional 'files' node -->
+	<files>
+		<file src="ILRepack\bin\Release\ILRepack.exe" target="" />
+		<file src="ILRepack\bin\Release\*.dll" target="" />
+		<file src="ILRepack\bin\Release\*.pdb" target="" />
+		<file src="ILRepack\bin\Release\*.config" target="" />
+		<file src="ILRepack\bin\Release\*.xml" target="" />
+	</files>
+
+ 
+</package>
